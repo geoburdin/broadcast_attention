@@ -7,19 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		720A11D22C32076A00B9BE8F /* broadcast_attentionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 720A11D12C32076A00B9BE8F /* broadcast_attentionApp.swift */; };
 		720A11D42C32076A00B9BE8F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 720A11D32C32076A00B9BE8F /* ContentView.swift */; };
 		720A11D62C32076D00B9BE8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 720A11D52C32076D00B9BE8F /* Assets.xcassets */; };
 		720A11D92C32076D00B9BE8F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 720A11D82C32076D00B9BE8F /* Preview Assets.xcassets */; };
+		720A11E12C320CCA00B9BE8F /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 720A11E02C320CCA00B9BE8F /* VideoPlayerView.swift */; };
+		720A11E32C320CE200B9BE8F /* AudioMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 720A11E22C320CE200B9BE8F /* AudioMonitor.swift */; };
+		720A11E52C320D0D00B9BE8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 720A11E42C320D0D00B9BE8F /* AppDelegate.swift */; };
+		72564FD82C3219B30084A5F6 /* broadcast_attentionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72564FD72C3219B30084A5F6 /* broadcast_attentionApp.swift */; };
+		72564FE92C322EEF0084A5F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72564FDD2C322EEF0084A5F6 /* Preview Assets.xcassets */; };
+		72564FEA2C322EEF0084A5F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72564FDF2C322EEF0084A5F6 /* AppDelegate.swift */; };
+		72564FEB2C322EEF0084A5F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72564FE02C322EEF0084A5F6 /* Assets.xcassets */; };
+		72564FEC2C322EEF0084A5F6 /* AudioMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72564FE12C322EEF0084A5F6 /* AudioMonitor.swift */; };
+		72564FED2C322EEF0084A5F6 /* broadcast_attentionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72564FE32C322EEF0084A5F6 /* broadcast_attentionApp.swift */; };
+		72564FEE2C322EEF0084A5F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72564FE42C322EEF0084A5F6 /* ContentView.swift */; };
+		72564FEF2C322EEF0084A5F6 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 72564FE52C322EEF0084A5F6 /* Info.plist */; };
+		72564FF02C322EEF0084A5F6 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72564FE72C322EEF0084A5F6 /* VideoPlayerView.swift */; };
+		72564FF22C322F240084A5F6 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 72564FF12C322F240084A5F6 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		720A11CE2C32076A00B9BE8F /* broadcast_attention.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = broadcast_attention.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		720A11D12C32076A00B9BE8F /* broadcast_attentionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = broadcast_attentionApp.swift; sourceTree = "<group>"; };
 		720A11D32C32076A00B9BE8F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		720A11D52C32076D00B9BE8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		720A11D82C32076D00B9BE8F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		720A11DA2C32076D00B9BE8F /* broadcast_attention.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = broadcast_attention.entitlements; sourceTree = "<group>"; };
+		720A11E02C320CCA00B9BE8F /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
+		720A11E22C320CE200B9BE8F /* AudioMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioMonitor.swift; sourceTree = "<group>"; };
+		720A11E42C320D0D00B9BE8F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		720A11E82C320E7700B9BE8F /* ReadMe.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReadMe.h; sourceTree = "<group>"; };
+		72564FD72C3219B30084A5F6 /* broadcast_attentionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = broadcast_attentionApp.swift; sourceTree = "<group>"; };
+		72564FDD2C322EEF0084A5F6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		72564FDF2C322EEF0084A5F6 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		72564FE02C322EEF0084A5F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		72564FE12C322EEF0084A5F6 /* AudioMonitor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioMonitor.swift; sourceTree = "<group>"; };
+		72564FE22C322EEF0084A5F6 /* broadcast_attention.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = broadcast_attention.entitlements; sourceTree = "<group>"; };
+		72564FE32C322EEF0084A5F6 /* broadcast_attentionApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = broadcast_attentionApp.swift; sourceTree = "<group>"; };
+		72564FE42C322EEF0084A5F6 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		72564FE52C322EEF0084A5F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		72564FE62C322EEF0084A5F6 /* ReadMe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReadMe.h; sourceTree = "<group>"; };
+		72564FE72C322EEF0084A5F6 /* VideoPlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
+		72564FF12C322F240084A5F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,11 +79,17 @@
 		720A11D02C32076A00B9BE8F /* broadcast_attention */ = {
 			isa = PBXGroup;
 			children = (
-				720A11D12C32076A00B9BE8F /* broadcast_attentionApp.swift */,
 				720A11D32C32076A00B9BE8F /* ContentView.swift */,
+				72564FD72C3219B30084A5F6 /* broadcast_attentionApp.swift */,
+				720A11E02C320CCA00B9BE8F /* VideoPlayerView.swift */,
+				72564FF12C322F240084A5F6 /* Info.plist */,
+				72564FE82C322EEF0084A5F6 /* broadcast_attention */,
+				720A11E22C320CE200B9BE8F /* AudioMonitor.swift */,
+				720A11E42C320D0D00B9BE8F /* AppDelegate.swift */,
 				720A11D52C32076D00B9BE8F /* Assets.xcassets */,
 				720A11DA2C32076D00B9BE8F /* broadcast_attention.entitlements */,
 				720A11D72C32076D00B9BE8F /* Preview Content */,
+				720A11E82C320E7700B9BE8F /* ReadMe.h */,
 			);
 			path = broadcast_attention;
 			sourceTree = "<group>";
@@ -67,6 +100,31 @@
 				720A11D82C32076D00B9BE8F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		72564FDE2C322EEF0084A5F6 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				72564FDD2C322EEF0084A5F6 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		72564FE82C322EEF0084A5F6 /* broadcast_attention */ = {
+			isa = PBXGroup;
+			children = (
+				72564FDE2C322EEF0084A5F6 /* Preview Content */,
+				72564FDF2C322EEF0084A5F6 /* AppDelegate.swift */,
+				72564FE02C322EEF0084A5F6 /* Assets.xcassets */,
+				72564FE12C322EEF0084A5F6 /* AudioMonitor.swift */,
+				72564FE22C322EEF0084A5F6 /* broadcast_attention.entitlements */,
+				72564FE32C322EEF0084A5F6 /* broadcast_attentionApp.swift */,
+				72564FE42C322EEF0084A5F6 /* ContentView.swift */,
+				72564FE52C322EEF0084A5F6 /* Info.plist */,
+				72564FE62C322EEF0084A5F6 /* ReadMe.h */,
+				72564FE72C322EEF0084A5F6 /* VideoPlayerView.swift */,
+			);
+			name = broadcast_attention;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,8 +185,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72564FE92C322EEF0084A5F6 /* Preview Assets.xcassets in Resources */,
 				720A11D92C32076D00B9BE8F /* Preview Assets.xcassets in Resources */,
+				72564FF22C322F240084A5F6 /* Info.plist in Resources */,
+				72564FEF2C322EEF0084A5F6 /* Info.plist in Resources */,
 				720A11D62C32076D00B9BE8F /* Assets.xcassets in Resources */,
+				72564FEB2C322EEF0084A5F6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,8 +201,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72564FED2C322EEF0084A5F6 /* broadcast_attentionApp.swift in Sources */,
+				72564FEA2C322EEF0084A5F6 /* AppDelegate.swift in Sources */,
+				720A11E52C320D0D00B9BE8F /* AppDelegate.swift in Sources */,
+				72564FD82C3219B30084A5F6 /* broadcast_attentionApp.swift in Sources */,
+				72564FEC2C322EEF0084A5F6 /* AudioMonitor.swift in Sources */,
+				72564FEE2C322EEF0084A5F6 /* ContentView.swift in Sources */,
 				720A11D42C32076A00B9BE8F /* ContentView.swift in Sources */,
-				720A11D22C32076A00B9BE8F /* broadcast_attentionApp.swift in Sources */,
+				720A11E12C320CCA00B9BE8F /* VideoPlayerView.swift in Sources */,
+				720A11E32C320CE200B9BE8F /* AudioMonitor.swift in Sources */,
+				72564FF02C322EEF0084A5F6 /* VideoPlayerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,6 +348,8 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "";
+				INFOPLIST_PREPROCESS = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -303,6 +375,8 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "";
+				INFOPLIST_PREPROCESS = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",

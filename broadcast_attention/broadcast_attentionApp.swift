@@ -1,17 +1,13 @@
-//
-//  broadcast_attentionApp.swift
-//  broadcast_attention
-//
-//  Created by Georgii Burdi on 30.06.24.
-//
-
 import SwiftUI
 
 @main
 struct broadcast_attentionApp: App {
+    @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+
     var body: some Scene {
-        WindowGroup {
-            ContentView()
+        // Use Settings or another window group for secondary windows if needed
+        Settings {
+            EmptyView()
         }
     }
 }
